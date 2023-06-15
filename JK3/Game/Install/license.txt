@@ -1,0 +1,166 @@
+SOFTWARE LICENSE AND LIMITED WARRANTY
+
+	PLEASE READ THIS LICENSE CAREFULLY BEFORE INSTALLING OR USING THE
+SOFTWARE.  BY USING THE SOFTWARE, YOU ARE AGREEING TO BE BOUND BY THE
+TERMS OF THIS LICENSE.  IF YOU DO NOT AGREE TO THE TERMS OF THIS LICENSE:
+DO NOT INSTALL OR USE THE SOFTWARE, DELETE THE SOFTWARE AND ALL RELATED
+FILES FROM YOUR COMPUTER, AND PROMPTLY RETURN THIS PACKAGE AND ITS
+CONTENTS TO THE PLACE OF PURCHASE FOR A REFUND OR EXCHANGE SUBJECT TO
+THE RETURN POLICY OF THE RETAILER.
+
+	The computer software, artwork, music, and other components included in this
+product as such may be updated (collectively referred to as the "Software"), are the
+copyrighted property of LucasArts, a division of Lucasfilm Entertainment Company Ltd.
+and/or its affiliated entities or divisions, and its licensors (collectively referred to as
+"LucasArts").  The Software is licensed (not sold) to you, and LucasArts owns and/or
+controls all copyright, trade secret, patent and other proprietary rights in the Software.
+You may use the Software on a single computer.  You may not:  (1) copy, distribute,
+rent, lease or sublicense all or any portion of the Software; (2) modify or prepare
+derivative works of the Software; (3) transmit the Software over a network, by
+telephone, or electronically using any means, except in the course of your network
+multi-player play of the Software over authorized networks; (4) engage in matchmaking
+for multi-player play over unauthorized networks; (5) design or distribute unauthorized
+levels; or (6) reverse engineer, decompile or disassemble the Software.  You may
+transfer the Software, but only if the recipient agrees to accept and be bound by the
+terms and conditions of this Agreement.  If you transfer the Software, you must
+transfer all components and documentation and erase any copies residing on computer
+equipment.  Your rights in and to this license are automatically terminated if and when
+you transfer the Software.
+
+	LucasArts warrants to the original consumer purchaser only that the media
+furnished in this Software will be free from defects in materials and workmanship under
+normal use for a period of ninety (90) days from the date of purchase (as evidenced by
+your receipt).  If the media furnished in this Software proves to be defective, and
+provided that the original consumer purchaser returns the media to LucasArts in
+accordance with the instructions in this paragraph, LucasArts will replace the defective
+media:  (a) free of charge to the original consumer purchaser, if the media proves to be
+defective within the ninety (90) day period following the date of purchase, or (b) for a
+fee of $5.00 per Compact Disc, if the media proves to be defective after the expiration
+of the ninety (90) day warranty period, provided that the request is made within a
+reasonable time from purchase, and LucasArts continues to distribute the CD
+commercially.  To obtain a replacement CD, please return the defective CD only,
+postage prepaid, to LucasArts, a division of Lucasfilm Entertainment Company Ltd., P.O.
+Box 10307, San Rafael, CA 94912, accompanied by proof of date of purchase, a
+description of the defect, and your name and return address, as well as a check for
+$5.00 made payable to LucasArts per CD if after expiration of the warranty period.
+LucasArts will mail a replacement to you.
+
+	You expressly acknowledge and agree that use of the Software is at your sole
+risk.  Except for the limited ninety (90) day warranty on the media set forth above, the
+Software and any related documentation or materials are provided "AS IS" and without
+warranty of any kind.  LUCASARTS EXPRESSLY DISCLAIMS ALL WARRANTIES, EXPRESS
+AND IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+LUCASARTS DOES NOT WARRANT THAT THE FUNCTIONS CONTAINED IN THE
+SOFTWARE WILL MEET YOUR REQUIREMENTS, THAT THE OPERATION OF THE
+SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT DEFECTS IN THE
+SOFTWARE WILL BE CORRECTED.  THE ENTIRE RISK AS TO THE RESULTS AND
+PERFORMANCE OF THE SOFTWARE IS ASSUMED BY YOU AND YOU (AND NOT
+LUCASARTS) ASSUME THE ENTIRE COST OF ALL SERVICING, REPAIR AND/OR
+CORRECTION.  SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED
+WARRANTIES, SO THE ABOVE EXCLUSION MAY NOT APPLY TO YOU. 
+
+	UNDER NO CIRCUMSTANCES INCLUDING NEGLIGENCE, SHALL LUCASARTS,
+OR ITS DIRECTORS, OFFICERS, EMPLOYEES, LICENSORS OR AGENTS, BE LIABLE TO
+YOU FOR ANY INCIDENTAL, INDIRECT, SPECIAL OR CONSEQUENTIAL DAMAGES
+(INCLUDING DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION,
+LOST DATA, LOSS OF BUSINESS INFORMATION, AND THE LIKE) ARISING OUT OF THE
+POSSESSION, USE, OR MALFUNCTION OF THIS PRODUCT, INCLUDING WITHOUT
+LIMITATION, DAMAGE TO PROPERTY AND, TO THE EXTENT PERMITTED BY LAW,
+DAMAGES FOR PERSONAL INJURY, EVEN IF LUCASARTS OR A LUCASARTS
+AUTHORIZED REPRESENTATIVE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
+DAMAGES OR LOSS.  SOME JURISDICTIONS DO NOT ALLOW THE LIMITATION OR
+EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE
+ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU.  
+YOU AGREE THAT THE LIABILITY OF LUCASARTS ARISING OUT OF ANY KIND OF LEGAL
+CLAIM (WHETHER IN CONTRACT, TORT, OR OTHERWISE) WILL NOT EXCEED THE
+AMOUNT YOU ORIGINALLY PAID FOR THE USE OF THE SOFTWARE.  YOU AGREE TO
+WAIVE ANY RIGHT TO EQUITABLE RELIEF, INCLUDING, WITHOUT LIMITATION, ANY
+INJUNCTIVE RELIEF, TO ENFORCE THE TERMS HEREOF.
+
+	THIS WARRANTY GIVES YOU SPECIFIC LEGAL RIGHTS, AND YOU MAY HAVE
+OTHER RIGHTS DEPENDING ON THE LAWS IN YOUR STATE.  
+
+	This Agreement is governed in all respects by the laws of the State of
+California as such laws are applied to agreements entered into and to be performed
+entirely within California between California residents, and you hereby consent to
+personal jurisdiction in California.  You and LucasArts each agree that any claim or
+controversy arising out of or related to this Agreement or the Software shall be settled
+by expedited binding arbitration in accordance with the rules of the American Arbitration
+Association.  Such arbitration shall take place in Marin County, California, and you waive
+any claim that such forum is inconvenient.  Any such claim or controversy shall be
+arbitrated solely on an individual basis and shall not be consolidated with a claim of any
+other party.  The Arbitrator may not change the terms of this Agreement and may not
+award any injunctive or other equitable relief.  If it is judicially determined that any claim
+or controversy arising out of or related to this Agreement or the Software cannot be
+settled by expedited binding arbitration as noted above, then you agree that any such
+claims or controversies shall be brought and maintained in the state courts located within
+the County of Marin, State of California or the federal courts of the Northern District of
+California, and you waive any claim that either such forum is inconvenient.  The
+foregoing shall not preclude LucasArts from seeking any injunctive relief for protection
+of LucasArts' intellectual property rights.  If any provision of this Agreement is held to
+be invalid or unenforceable, such provision shall be struck and the remaining provisions
+shall be enforced.   LucasArts’ failure to act with respect to a breach by you or others
+does not waive LucasArts’ right to act with respect to subsequent or similar breaches.
+This Agreement sets forth the entire understanding and agreement between you and
+LucasArts with respect to the subject matter hereof.  Except as provided herein, this
+Agreement may not be amended except in a writing signed by both parties; provided,
+however, that LucasArts has the right, without notice and/or without a writing signed by
+both parties, to amend this Agreement in connection with any modifications or updates
+to the Software.
+	
+	If the Software is acquired under agreement with the U.S. government or any
+contractor therewith, it is acquired as "commercial computer software" subject to the
+provisions hereof, as specified in 48 CFR 12.212 of the FAR and, if acquired for
+Department of Defense (DoD) units, 48 CFR 227-7202 of the DoD FAR Supplement, or
+sections succeeding thereto.
+
+	Rules Governing New Levels:  "New Levels" are data that modify, add to, or
+substitute for data in the Software, thus modifying, adding to, or replacing levels
+provided by LucasArts in the Software, and may also include saved games, and
+scenarios created using the skirmish features of the Software.  New Levels may be
+permitted by LucasArts, in its sole discretion, on the following conditions.  You agree
+that the following conditions apply to your creation of any New Levels:  
+(1) 	New Levels will work only with the retail version of the Software, and may not
+work with any demo or Original Equipment Manufacturer (generally known as "OEM")
+versions of the Software.  
+(2) 	New Levels may not modify any COM, EXE, DLL or other executable files.  
+(3) 	New Levels must not contain any illegal, scandalous, illicit, defamatory,
+libelous, or objectionable material (as may be determined by LucasArts in its sole
+discretion), or any material that infringes any trademarks, copyrights, protected works,
+publicity, proprietary, or other rights of any third party or of LucasArts.  
+(4) 	New Levels may not include any LucasArts sound effects or music files or
+portions thereof.  
+(5) 	New Levels must identify in every description file, on-line description,
+read-me, and in comments in the New Level code (if new code is added): (a) the name,
+address, and e-mail address of the level’s creators, and (b) the following disclaimer:
+"THIS LEVEL IS NOT MADE, DISTRIBUTED, OR SUPPORTED BY LUCASARTS, A DIVISION
+OF LUCASFILM ENTERTAINMENT COMPANY LTD.  ELEMENTS TM & (C) LUCASARTS, A
+DIVISION OF LUCASFILM ENTERTAINMENT COMPANY LTD."  
+(6) 	New Levels may not be sold, bartered, or distributed with any other product
+for which any charge is made (other than incidental charges for time spent on-line), but
+rather must be distributed free of charge at all times. 
+(7) 	By distributing or permitting the distribution of any New Levels, all creators or
+owners of any trademark, copyright, or other right, title or interest therein grant to
+LucasArts an irrevocable, perpetual, royalty-free, sublicensable right to distribute or
+exploit the New Level by any means or media (whether now known or hereafter
+invented), and to create and distribute by any means or media (whether now known or
+hereafter invented) derivative works thereof, and to charge for the distribution of such
+New Level or such derivative work, with no obligation to account to any creators or
+owners of the New Level in any manner.
+(8) 	LucasArts may revoke your right or permission to use, distribute or make New
+Levels at any time and in its sole discretion.
+
+LucasArts and the LucasArts logo are registered trademarks of Lucasfilm Ltd.  © 2003
+Lucasfilm Entertainment Company Ltd. or Lucasfilm Ltd. & ® or TM  as indicated.  All
+rights reserved.
+
+This game and manual are each a work of fiction.  All of the characters, events,
+locations, logos, and entities portrayed in this game are fictional.  Any resemblance to
+real persons, living or dead, or actual events, is purely coincidental.
+
+LucasArts, a division of
+Lucasfilm Entertainment Company Ltd.
+P.O. Box 10307
+San Rafael, CA 94912
+

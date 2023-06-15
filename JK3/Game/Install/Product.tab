@@ -1,0 +1,40 @@
+Dummy	0	Empty
+ID_SETTINGS_TROUBLE_SHOOTING	0x6003	We recommend that you check the Video Issues section in the Troubleshooting Guide, which is accessible through the Help menu on the launcher, before adjusting any of these options.
+ID_SETTINGS_GENERAL	0x6004	General
+ID_SETTINGS_TROUBLE	0x6005	Trouble Shooting
+ID_REGISTRATION	0x6006	Register Star Wars Jedi Knight: Jedi Academy
+ID_REGISTER_NOW	0x6007	Register Now
+ID_REGISTER_LATER	0x6008	Remind me later
+ID_REGISTER_NEVER	0x6009	Never Register
+ID_REGISTRATION_OPTIONS	0x600a	Registration Options
+ID_SETTINGS_FORCE_16_BIT	0x600b	Force 16 Bit Color
+ID_SETTINGS_FORCE_32_BIT	0x600c	Force 32 Bit Color
+INST_CUSTOM_INSTALL	0x600d	Custom Install 8-1133 MB
+INST_CUSTOM_INSTALLATION	0x600e	Custom Installation
+INST_SELECT_YOUR_COMPONENTS	0x600f	Select the components you would like to install
+INST_LEAVE_ALL_EMPTY	0x6010	Leaving all components empty will install the minimum number of files required to run the game.
+INST_ART_FILES	0x6011	Art Files 188 MB
+INST_VOICE_FILES	0x6012	Voice and Sound FX 306 MB
+INST_MUSIC_SOUND_FILES	0x6013	Music Files 206 MB
+INST_MOVIES	0x6014	Movies 425 MB
+ID_PRODUCT_NAME	0xff00	Star Wars Jedi Knight Jedi Academy
+ID_PRODUCT_FOLDER	0xff01	Star Wars Jedi Knight Jedi Academy
+ID_PRODUCT_UNINSTALL_STRING	0xff02	LucasArts' Star Wars Jedi Knight Jedi Academy
+ID_PRODUCT_START_MENU	0xff03	LucasArts\\Star Wars Jedi Knight Jedi Academy
+ID_PRODUCT_CHARSET	0xff04	DEFAULT_CHARSET
+ID_PRODUCT_TITLE	0xff05	Star Wars Jedi Knight: Jedi Academy
+ID_PRODUCT_LANGUAGE	0xfff0	USA
+ID_LANG_BASE	0xfff1	0009
+ID_SETTINGS_CONFIGURE_JOYSTICKS	0xfff2	Configure Joysticks
+ID_SETTINGS_ACCEPT	0xfff3	Accept
+ID_SETTINGS_JOYSTICK_CONFIGURATION	0xfff4	Game Controller
+ID_SETTINGS_CONFIGURE_VIDEO	0xfff5	Configure Video
+ID_SETTINGS_VIDEO_CONFIGURATION	0xfff6	Video
+ID_SETTINGS_NO_VIDEO_INSTALLED	0xfff7	No 3D Display Adapter Installed
+ID_SETTINGS_NO_JOYSTICK_INSTALLED	0xfff8	No Joystick Installed
+ID_SETTINGS_ENABLE_OPENGL	0xfff9	Enable OpenGL
+ID_SETTINGS_ENABLE_DIRECTX	0xfffa	Enable Direct3D
+IDBTN_LAUNCHER_VIEW_MANUAL	0xfffb	View Online Documentation
+ID_MEDIA_NAME	0xfffc	JKIII
+IDBTN_LAUNCHER_START_NEW_GAME	0xfffd	Play Star Wars Jedi Knight Jedi Academy
+IDBTN_LAUNCHER_HOW_TO_PLAY	0xfffe	How To Play
