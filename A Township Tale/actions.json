@@ -1,0 +1,192 @@
+{
+  "actions": [
+    {
+      "name": "/actions/a_township_tale/in/Teleport",
+      "type": "boolean",
+      "requirement": "mandatory"
+    },
+    {
+      "name": "/actions/a_township_tale/in/Pose",
+      "type": "pose",
+      "requirement": "mandatory"
+    },
+    {
+      "name": "/actions/a_township_tale/in/SkeletonLeftHand",
+      "type": "skeleton",
+      "skeleton": "/skeleton/hand/left",
+      "requirement": "optional"
+    },
+    {
+      "name": "/actions/a_township_tale/in/SkeletonRightHand",
+      "type": "skeleton",
+      "skeleton": "/skeleton/hand/right",
+      "requirement": "optional"
+    },
+    {
+      "name": "/actions/a_township_tale/in/Squeeze",
+      "type": "vector1",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/a_township_tale/in/HeadsetOnHead",
+      "type": "boolean",
+      "requirement": "optional"
+    },
+    {
+      "name": "/actions/a_township_tale/in/Menu",
+      "type": "boolean",
+      "requirement": "mandatory"
+    },
+    {
+      "name": "/actions/a_township_tale/in/SmoothLocomotion",
+      "type": "vector2",
+      "requirement": "mandatory"
+    },
+    {
+      "name": "/actions/a_township_tale/in/Grab",
+      "type": "boolean",
+      "requirement": "mandatory"
+    },
+    {
+      "name": "/actions/a_township_tale/in/LockforGestures",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/a_township_tale/in/TurnRight",
+      "type": "boolean",
+      "requirement": "optional"
+    },
+    {
+      "name": "/actions/a_township_tale/in/TurnLeft",
+      "type": "boolean",
+      "requirement": "optional"
+    },
+    {
+      "name": "/actions/a_township_tale/in/Gestures",
+      "type": "vector2",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/a_township_tale/in/ItemToTheRight",
+      "type": "boolean",
+      "requirement": "optional"
+    },
+    {
+      "name": "/actions/a_township_tale/in/ItemToTheLeft",
+      "type": "boolean",
+      "requirement": "optional"
+    },
+    {
+      "name": "/actions/a_township_tale/in/SwipeTouch",
+      "type": "boolean",
+      "requirement": "optional"
+    },
+    {
+      "name": "/actions/a_township_tale/in/ToggleRun",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/a_township_tale/in/SwipeMotion",
+      "type": "vector2",
+      "requirement": "optional"
+    },
+    {
+      "name": "/actions/a_township_tale/in/ReleaseToggleGrab",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/a_township_tale/in/SmoothRotationSpeed",
+      "type": "vector2",
+      "requirement": "optional"
+    },
+    {
+      "name": "/actions/a_township_tale/in/ToggleGrabDoubleTap",
+      "type": "boolean",
+      "requirement": "optional"
+    },
+    {
+      "name": "/actions/a_township_tale/in/ToggleGrab",
+      "type": "boolean",
+      "requirement": "optional"
+    },
+    {
+      "name": "/actions/a_township_tale/in/TakePhoto",
+      "type": "boolean",
+      "requirement": "optional"
+    },
+    {
+      "name": "/actions/a_township_tale/in/TakePhotoLongHold",
+      "type": "boolean",
+      "requirement": "optional"
+    },
+    {
+      "name": "/actions/a_township_tale/in/JoystickDpad",
+      "type": "vector2",
+      "requirement": "optional"
+    },
+    {
+      "name": "/actions/a_township_tale/in/GrabStrength",
+      "type": "vector1",
+      "requirement": "optional"
+    },
+    {
+      "name": "/actions/a_township_tale/out/Haptic",
+      "type": "vibration"
+    }
+  ],
+  "action_sets": [
+    {
+      "name": "/actions/a_township_tale",
+      "usage": "single"
+    }
+  ],
+  "default_bindings": [
+    {
+      "controller_type": "vive_controller",
+      "binding_url": "bindings_vive_controller.json"
+    },
+    {
+      "controller_type": "vive_cosmos_controller",
+      "binding_url": "bindings_vive_cosmos_controller.json"
+    },
+    {
+      "controller_type": "oculus_touch",
+      "binding_url": "bindings_oculus_touch.json"
+    },
+    {
+      "controller_type": "knuckles",
+      "binding_url": "bindings_knuckles.json"
+    },
+    {
+      "controller_type": "holographic_controller",
+      "binding_url": "bindings_holographic_controller.json"
+    }
+  ],
+  "localization": [
+    {
+      "language_tag": "en_US",
+      "/actions/a_township_tale/in/Grab": "Grab Items",
+      "/actions/a_township_tale/in/Menu": "Meta Settings",
+      "/actions/a_township_tale/in/Squeeze": "Hand Squeeze",
+      "/actions/a_township_tale/in/Gestures": "Gesture Selection Direction",
+      "/actions/a_township_tale/in/SmoothLocomotion": "Smooth Locomotion Direction",
+      "/actions/a_township_tale/in/LockforGestures": "Gestures and Item handling movement lock",
+      "/actions/a_township_tale/in/TurnRight": "Rotate Right",
+      "/actions/a_township_tale/in/TurnLeft": "Rotate Left",
+      "/actions/a_township_tale/in/ItemToTheRight": "Move items to the right",
+      "/actions/a_township_tale/in/ItemToTheLeft": "Move items to the left",
+      "/actions/a_township_tale/in/SwipeTouch": "Touch Swipe Input",
+      "/actions/a_township_tale/in/ToggleRun": "Toggle Walk/Run",
+      "/actions/a_township_tale/in/SwipeMotion": "Swipe Input",
+      "/actions/a_township_tale/in/ReleaseToggleGrab": "Release Toggle Grab",
+      "/actions/a_township_tale/in/SmoothRotationSpeed": "Smooth Rotation Speed Control",
+      "/actions/a_township_tale/in/ToggleGrabDoubleTap": "Toggle Grab Double Tap",
+      "/actions/a_township_tale/in/ToggleGrab": "Toggle Grab Single Tap",
+      "/actions/a_township_tale/in/TakePhoto": "Take Photo",
+      "/actions/a_township_tale/in/TakePhotoLongHold": "Take Photo Long Hold",
+      "/actions/a_township_tale/in/JoystickDpad": "Joystick Dpad",
+      "/actions/a_township_tale/in/GrabStrength": "Grab Strength"
+    }
+  ]
+}
