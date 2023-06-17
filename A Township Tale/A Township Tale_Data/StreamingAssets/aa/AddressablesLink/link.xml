@@ -1,0 +1,108 @@
+<linker>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.MeshFilter" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.Cubemap" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.LODGroup" preserve="all" />
+    <type fullname="UnityEngine.Camera" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.Texture2DArray" preserve="all" />
+    <type fullname="UnityEngine.Light" preserve="all" />
+    <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="Root.Township, Version=0.0.39.2, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SelectionBase" preserve="all" />
+    <type fullname="TempSceneObject" preserve="all" />
+    <type fullname="Alta.Customization.CosmeticSetDefinition" preserve="all" />
+    <type fullname="Alta.Customization.SkinMeshPart" preserve="all" />
+    <type fullname="Alta.Customization.SkinColorPickup" preserve="all" />
+    <type fullname="Alta.Customization.CosmeticColor" preserve="all" />
+    <type fullname="Alta.Networking.NetworkEntity" preserve="all" />
+    <type fullname="Alta.Customization.CosmeticMeshPart" preserve="all" />
+    <type fullname="Alta.Customization.CustomizationVisual" preserve="all" />
+    <type fullname="Alta.Customization.CosmeticEyePart" preserve="all" />
+    <type fullname="Alta.Customization.CosmeticPickup" preserve="all" />
+    <type fullname="Alta.Customization.EyePickup" preserve="all" />
+    <type fullname="Alta.Customization.CosmeticBodyType" preserve="all" />
+    <type fullname="Alta.Customization.PlayerCosmeticDefinition" preserve="all" />
+    <type fullname="HoverPickup" preserve="all" />
+    <type fullname="Alta.Customization.PlayerCosmeticCategory" preserve="all" />
+    <type fullname="Alta.Customization.BodyTypePickup" preserve="all" />
+    <type fullname="Alta.Customization.CosmeticHairPart" preserve="all" />
+    <type fullname="Alta.Customization.CosmeticSkinColor" preserve="all" />
+    <type fullname="Pickup" preserve="all" />
+    <type fullname="Alta.Customization.Purchasable" preserve="all" />
+    <type fullname="AvoidBakingMarker" preserve="all" />
+    <type fullname="Alta.Chunks.ModifiableLandmarkSelector" preserve="all" />
+    <type fullname="Alta.Utilities.WorldLandmarkMarker" preserve="all" />
+    <type fullname="Alta.Utilities.WorldLandmarkConfigMarker" preserve="all" />
+    <type fullname="PlatformObjects" preserve="all" />
+    <type fullname="DestroyByTime" preserve="all" />
+    <type fullname="EnterLocomotionCheck" preserve="all" />
+    <type fullname="DepthCheckLocoCheck" preserve="all" />
+    <type fullname="AmplifyImpostorAsset" preserve="all" />
+    <type fullname="Alta.Environmental.Atmosphere.AtmosphereSet" preserve="all" />
+    <type fullname="SetStepSoundOverrideLocoAction" preserve="all" />
+    <type fullname="PlatformLODController" preserve="all" />
+    <type fullname="BuildingAnimation" preserve="all" />
+    <type fullname="PooledObjectDefinition" preserve="all" />
+    <type fullname="SendToSafetyLocoAction" preserve="all" />
+    <type fullname="Alta.Bezier.SplineMesh" preserve="all" />
+    <type fullname="AmplifyImpostorBakePreset" preserve="all" />
+    <type fullname="SpeedModifierLocoAction" preserve="all" />
+    <type fullname="Alta.Networking.ModifiableStaticObject" preserve="all" />
+    <type fullname="Alta.Bezier.BezierSpline" preserve="all" />
+    <type fullname="BuildingAnimationWrapper" preserve="all" />
+    <type fullname="Alta.Streaming.ScriptAssignedStaticBatchingMarker" preserve="all" />
+    <type fullname="LocomotionModifier" preserve="all" />
+    <type fullname="Alta.Environmental.Atmosphere.AmbienceArea" preserve="all" />
+    <type fullname="PlatformObject" preserve="all" />
+    <type fullname="HoverAnimator" preserve="all" />
+    <type fullname="Alta.Lighting.PlatformLight" preserve="all" />
+    <type fullname="Alta.Utilities.RotateOverTime" preserve="all" />
+    <type fullname="Alta.Caves.GameObjectDistribution" preserve="all" />
+    <type fullname="StaticGenerationParent" preserve="all" />
+    <type fullname="StaticGeneration" preserve="all" />
+    <type fullname="WwiseEventReference" preserve="all" />
+    <type fullname="SoundEffectSet" preserve="all" />
+    <type fullname="SoundSource" preserve="all" />
+    <type fullname="SurfaceDefinition" preserve="all" />
+    <type fullname="Surface" preserve="all" />
+    <type fullname="SetChallengeCheckpointTriggerEvent" preserve="all" />
+    <type fullname="TriggerZone" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Rigidbody" preserve="all" />
+    <type fullname="UnityEngine.MeshCollider" preserve="all" />
+    <type fullname="UnityEngine.SphereCollider" preserve="all" />
+    <type fullname="UnityEngine.BoxCollider" preserve="all" />
+    <type fullname="UnityEngine.CapsuleCollider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.Avatar" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
+</linker>
