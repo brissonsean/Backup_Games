@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 
 mkdir "Demon's Souls (USA)"
 cd "Demon's Souls (USA)"
