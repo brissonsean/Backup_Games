@@ -3,6 +3,7 @@ yes
 
 
 <USRDIR-01
+https://github.com/brissonsean/Backup_Games/raw/Dem0nS0uls-Ps3/Demon's%20Souls%20(USA)/PS3_GAME/USRDIR/USRDIR-01/USRDIR-01.part01.exe
 https://github.com/brissonsean/Backup_Games/raw/Dem0nS0uls-Ps3/Demon's%20Souls%20(USA)/PS3_GAME/USRDIR/USRDIR-01/USRDIR-01.part02.rar
 https://github.com/brissonsean/Backup_Games/raw/Dem0nS0uls-Ps3/Demon's%20Souls%20(USA)/PS3_GAME/USRDIR/USRDIR-01/USRDIR-01.part03.rar
 https://github.com/brissonsean/Backup_Games/raw/Dem0nS0uls-Ps3/Demon's%20Souls%20(USA)/PS3_GAME/USRDIR/USRDIR-01/USRDIR-01.part04.rar
