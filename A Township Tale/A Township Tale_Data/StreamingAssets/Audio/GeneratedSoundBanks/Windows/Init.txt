@@ -1,0 +1,24 @@
+Switch Group	ID	Name			Wwise Object Path	Notes
+	2364698500	drop_velocity			\Default Work Unit\drop_velocity	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	85412153	Ambience			\Default Work Unit\Master Audio Bus\Ambience	
+	676956834	Player Combat			\Default Work Unit\Master Audio Bus\Player Combat	
+	805203703	Master Secondary Bus			\Default Work Unit\Master Secondary Bus	
+	1522150953	Player Interactions			\Default Work Unit\Master Audio Bus\Player Interactions	
+	1544658388	Player Voice			\Default Work Unit\Master Audio Bus\Player Voice	
+	1551306167	UI			\Default Work Unit\Master Audio Bus\UI	
+	2242381963	Enemies			\Default Work Unit\Master Audio Bus\Enemies	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	3991942870	Music			\Default Work Unit\Master Audio Bus\Music	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	3177428469	Cave_Reverb			\Default Work Unit\Master Audio Bus\Cave_Reverb	
+
+Effect plug-ins	ID	Name	Type				Notes
+	506891147	Plate_Small	Wwise RoomVerb			
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

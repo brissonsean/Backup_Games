@@ -1,0 +1,102 @@
+Event	ID	Name			Wwise Object Path	Notes
+	262814856	Play_PierceHit_Crit			\Temp Work Unit\DesignerTestEvents\Play_PierceHit_Crit	
+	359783428	Play_forge_finished			\Crafting Prototype Unit\Play_forge_finished	
+	585739900	Play_too_strong_hit			\Crafting Prototype Unit\Play_too_strong_hit	
+	589656244	Play_SlashHit			\Temp Work Unit\DesignerTestEvents\Play_SlashHit	
+	654565950	Play_TemplateLooping			\Temp Work Unit\TemplateEvents\Play_TemplateLooping	
+	787871796	Play_TemplateOneShot			\Temp Work Unit\TemplateEvents\Play_TemplateOneShot	
+	836869293	Play_PierceExit_Crit			\Temp Work Unit\DesignerTestEvents\Play_PierceExit_Crit	
+	887473676	Play_consumable_apply_finish			\Crafting Prototype Unit\Play_consumable_apply_finish	
+	1568035580	Play_TestLooping			\Temp Work Unit\TestEvents\Play_TestLooping	
+	1625991795	Play_TestRandom			\Temp Work Unit\TestEvents\Play_TestRandom	
+	1669951674	Play_TestOneShot			\Temp Work Unit\TestEvents\Play_TestOneShot	
+	2424344760	Play_SlashExit_Crit			\Temp Work Unit\DesignerTestEvents\Play_SlashExit_Crit	
+	2487043750	Stop_SlashWoosh_Loop			\Temp Work Unit\DesignerTestEvents\Stop_SlashWoosh_Loop	
+	2529435866	Stop_TestLooping			\Temp Work Unit\TestEvents\Stop_TestLooping	
+	2673616808	Stop_TemplateLooping			\Temp Work Unit\TemplateEvents\Stop_TemplateLooping	
+	2821524834	Play_consumable_apply			\Crafting Prototype Unit\Play_consumable_apply	
+	3036589913	Play_bad_angle_hit			\Crafting Prototype Unit\Play_bad_angle_hit	
+	3044545065	Play_SlashExit			\Temp Work Unit\DesignerTestEvents\Play_SlashExit	
+	3148484188	Play_good_crafting_hit			\Crafting Prototype Unit\Play_good_crafting_hit	
+	3182385808	Play_SlashWoosh_Loop			\Temp Work Unit\DesignerTestEvents\Play_SlashWoosh_Loop	
+	3339518201	Play_PierceHit			\Temp Work Unit\DesignerTestEvents\Play_PierceHit	
+	3375119782	Play_PierceExit			\Temp Work Unit\DesignerTestEvents\Play_PierceExit	
+	3660749061	Play_consumable_hit			\Crafting Prototype Unit\Play_consumable_hit	
+	3741306867	Play_SlashHit_Crit			\Temp Work Unit\DesignerTestEvents\Play_SlashHit_Crit	
+	3834737925	Play_TemplateRandom			\Temp Work Unit\TemplateEvents\Play_TemplateRandom	
+	4291913547	Play_BladeDullImpact			\Temp Work Unit\DesignerTestEvents\Play_BladeDullImpact	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	3519441192	velocity			\Default Work Unit\velocity	
+	3726722189	Strike_Strength			\Default Work Unit\Strike_Strength	
+
+Modulator Envelope	ID	Name			Wwise Object Path	Notes
+	667593370	Modulator Envelope (Custom)				
+
+Effect plug-ins	ID	Name	Type				Notes
+	28755024	Wwise_Matrix_Reverb_(Custom)	Wwise Matrix Reverb			
+	1711423976	Many_Odd_Harm_Notches	Wwise Flanger			
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	747981343	Wwise Synth One	Wwise Synth One		\Actor-Mixer Hierarchy\Temp Work Unit\Temp Actor Mixer\Slash Woosh Test - Joel\Wwise Synth One	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	38838532	sword_stab_exitCrit_1	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\sword_stab_exitCrit_1_CA0198D6.wem		\Actor-Mixer Hierarchy\Temp Work Unit\Temp Actor Mixer\Pierce_Exit_Metal_Crit\sword_stab_exitCrit_1		264664
+	58234331	tt_forge_heartcall_heat_hit	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\tt_forge_heartcall_heat_hit_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Actor Mixer\Player\Forging\tt_forge_heartcall_heat_hit		267760
+	92176948	tt_skillOrb_grab	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\tt_skillOrb_grab_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Actor Mixer\Objects\Skill Orb\tt_skillOrb_grab		206768
+	109722607	tt_demo_pickaxe_heavy_06	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\tt_demo_pickaxe_heavy_06_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Actor Mixer\Player\Mining\Mining_Successful_Strike\tt_demo_pickaxe_heavy_06		58192
+	165216102	tt_weapons_bow_arrow_set_05	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\tt_weapons_bow_arrow_set_05_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Actor Mixer\Player\Combat\Arrow\Arrow_Knock\tt_weapons_bow_arrow_set_05		18844
+	188722415	sword_stab_enterHit_2	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\sword_stab_enterHit_2_CA0198D6.wem		\Actor-Mixer Hierarchy\Temp Work Unit\Temp Actor Mixer\Pierce_Hit_Metal\sword_stab_enterHit_2		198516
+	193902416	tt_demo_pickaxe_light_06	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\tt_demo_pickaxe_light_06_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Actor Mixer\Player\Mining\Mining_Unsuccessful_Strike\tt_demo_pickaxe_light_06		66992
+	203661227	sword_stab_exitCrit_4	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\sword_stab_exitCrit_4_CA0198D6.wem		\Actor-Mixer Hierarchy\Temp Work Unit\Temp Actor Mixer\Pierce_Exit_Metal_Crit\sword_stab_exitCrit_4		264664
+	207807301	TestLooping	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\temp_testtone_lp_181A13A0.wem		\Actor-Mixer Hierarchy\Temp Work Unit\Test\TestLooping		96064
+	215549893	tt_weapons_bow_arrow_set_04	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\tt_weapons_bow_arrow_set_04_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Actor Mixer\Player\Combat\Arrow\Arrow_Knock\tt_weapons_bow_arrow_set_04		20676
+	216380739	sword_stab_enterHit_5	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\sword_stab_enterHit_5_CA0198D6.wem		\Actor-Mixer Hierarchy\Temp Work Unit\Temp Actor Mixer\Pierce_Hit_Metal\sword_stab_enterHit_5		198516
+	223401678	tt_demo_pickaxe_light_03	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\tt_demo_pickaxe_light_03_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Actor Mixer\Player\Mining\Mining_Unsuccessful_Strike\tt_demo_pickaxe_light_03		99292
+	234194973	tt_demo_pickaxe_light_01	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\tt_demo_pickaxe_light_01_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Actor Mixer\Player\Mining\Mining_Unsuccessful_Strike\tt_demo_pickaxe_light_01		96192
+	251841219	sword_stab_enterHit_4	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\sword_stab_enterHit_4_CA0198D6.wem		\Actor-Mixer Hierarchy\Temp Work Unit\Temp Actor Mixer\Pierce_Hit_Metal\sword_stab_enterHit_4		198516
+	255404226	tt_demo_pickaxe_heavy_05	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\tt_demo_pickaxe_heavy_05_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Actor Mixer\Player\Mining\Mining_Successful_Strike\tt_demo_pickaxe_heavy_05		60614
+	265211518	sword_crit_5	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\sword_crit_5_CA0198D6.wem		\Actor-Mixer Hierarchy\Temp Work Unit\Temp Actor Mixer\Slash_Hit_Crit\sword_crit_5		173708
+	266084850	sword_crit_4	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\sword_crit_4_CA0198D6.wem		\Actor-Mixer Hierarchy\Temp Work Unit\Temp Actor Mixer\Slash_Hit_Crit\sword_crit_4		173708
+	280153093	tt_demo_pickaxe_heavy_03	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\tt_demo_pickaxe_heavy_03_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Actor Mixer\Player\Mining\Mining_Successful_Strike\tt_demo_pickaxe_heavy_03		90914
+	311516530	tt_demo_pickaxe_light_02	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\tt_demo_pickaxe_light_02_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Actor Mixer\Player\Mining\Mining_Unsuccessful_Strike\tt_demo_pickaxe_light_02		128392
+	315449255	sword_hit_4	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\sword_hit_4_CA0198D6.wem		\Actor-Mixer Hierarchy\Temp Work Unit\Temp Actor Mixer\Slash_Hit\sword_hit_4		173708
+	317938182	sword_fail_2	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\sword_fail_2_CA0198D6.wem		\Actor-Mixer Hierarchy\Temp Work Unit\Temp Actor Mixer\Blade_Impact_Dull_Blender\Blade_Impact_Dull_Hard\sword_fail_2		132364
+	338931432	tt_forge_heartcall_strong_hit	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\tt_forge_heartcall_strong_hit_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Actor Mixer\Player\Forging\tt_forge_heartcall_strong_hit		174820
+	398841126	sword_stab_exitHit_4	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\sword_stab_exitHit_4_CA0198D6.wem		\Actor-Mixer Hierarchy\Temp Work Unit\Temp Actor Mixer\Pierce_Exit_Metal\sword_stab_exitHit_4		264664
+	420014587	tt_weapons_bow_arrow_set_01	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\tt_weapons_bow_arrow_set_01_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Actor Mixer\Player\Combat\Arrow\Arrow_Knock\tt_weapons_bow_arrow_set_01		39194
+	430849119	sword_stab_enterCrit_2	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\sword_stab_enterCrit_2_CA0198D6.wem		\Actor-Mixer Hierarchy\Temp Work Unit\Temp Actor Mixer\Pierce_Hit_Metal_Crit\sword_stab_enterCrit_2		264664
+	438909846	sword_hit_5	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\sword_hit_5_CA0198D6.wem		\Actor-Mixer Hierarchy\Temp Work Unit\Temp Actor Mixer\Slash_Hit\sword_hit_5		173708
+	446420292	sword_stab_enterCrit_4	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\sword_stab_enterCrit_4_CA0198D6.wem		\Actor-Mixer Hierarchy\Temp Work Unit\Temp Actor Mixer\Pierce_Hit_Metal_Crit\sword_stab_enterCrit_4		264664
+	458468468	tt_demo_pickaxe_heavy_02	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\tt_demo_pickaxe_heavy_02_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Actor Mixer\Player\Mining\Mining_Successful_Strike\tt_demo_pickaxe_heavy_02		91114
+	465723861	sword_crit_1	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\sword_crit_1_CA0198D6.wem		\Actor-Mixer Hierarchy\Temp Work Unit\Temp Actor Mixer\Slash_Hit_Crit\sword_crit_1		173708
+	480396891	sword_hit_1	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\sword_hit_1_CA0198D6.wem		\Actor-Mixer Hierarchy\Temp Work Unit\Temp Actor Mixer\Slash_Hit\sword_hit_1		173708
+	486928106	sword_stab_exitCrit_3	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\sword_stab_exitCrit_3_CA0198D6.wem		\Actor-Mixer Hierarchy\Temp Work Unit\Temp Actor Mixer\Pierce_Exit_Metal_Crit\sword_stab_exitCrit_3		264664
+	495454706	temp_testtone_02	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\temp_testtone_02_CA0198D6.wem		\Actor-Mixer Hierarchy\Temp Work Unit\Test\TestRandom\temp_testtone_02		83264
+	510489361	sword_stab_enterHit_3	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\sword_stab_enterHit_3_CA0198D6.wem		\Actor-Mixer Hierarchy\Temp Work Unit\Temp Actor Mixer\Pierce_Hit_Metal\sword_stab_enterHit_3		198516
+	519210079	tt_twinkle_levelup	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\tt_twinkle_levelup_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Actor Mixer\Player\tt_twinkle_levelup		1008100
+	552811954	TestOneShot	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\temp_testtone_01_CA0198D6.wem		\Actor-Mixer Hierarchy\Temp Work Unit\Test\TestOneShot		46124
+	572932877	sword_stab_enterCrit_5	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\sword_stab_enterCrit_5_CA0198D6.wem		\Actor-Mixer Hierarchy\Temp Work Unit\Temp Actor Mixer\Pierce_Hit_Metal_Crit\sword_stab_enterCrit_5		264664
+	604568471	sword_stab_exitHit_3	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\sword_stab_exitHit_3_CA0198D6.wem		\Actor-Mixer Hierarchy\Temp Work Unit\Temp Actor Mixer\Pierce_Exit_Metal\sword_stab_exitHit_3		264664
+	609363744	sword_crit_2	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\sword_crit_2_CA0198D6.wem		\Actor-Mixer Hierarchy\Temp Work Unit\Temp Actor Mixer\Slash_Hit_Crit\sword_crit_2		173708
+	614847129	tt_demo_pickaxe_heavy_01	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\tt_demo_pickaxe_heavy_01_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Actor Mixer\Player\Mining\Mining_Successful_Strike\tt_demo_pickaxe_heavy_01		72514
+	646971800	sword_crit_3	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\sword_crit_3_CA0198D6.wem		\Actor-Mixer Hierarchy\Temp Work Unit\Temp Actor Mixer\Slash_Hit_Crit\sword_crit_3		165440
+	650053678	sword_stab_enterCrit_1	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\sword_stab_enterCrit_1_CA0198D6.wem		\Actor-Mixer Hierarchy\Temp Work Unit\Temp Actor Mixer\Pierce_Hit_Metal_Crit\sword_stab_enterCrit_1		264664
+	656240607	sword_stab_enterCrit_3	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\sword_stab_enterCrit_3_CA0198D6.wem		\Actor-Mixer Hierarchy\Temp Work Unit\Temp Actor Mixer\Pierce_Hit_Metal_Crit\sword_stab_enterCrit_3		264664
+	726221486	sword_stab_exitHit_1	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\sword_stab_exitHit_1_CA0198D6.wem		\Actor-Mixer Hierarchy\Temp Work Unit\Temp Actor Mixer\Pierce_Exit_Metal\sword_stab_exitHit_1		264664
+	728381031	tt_weapons_bow_arrow_set_02	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\tt_weapons_bow_arrow_set_02_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Actor Mixer\Player\Combat\Arrow\Arrow_Knock\tt_weapons_bow_arrow_set_02		31444
+	756871460	sword_fail_4	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\sword_fail_4_CA0198D6.wem		\Actor-Mixer Hierarchy\Temp Work Unit\Temp Actor Mixer\Blade_Impact_Dull_Blender\Blade_Impact_Dull_Hard\sword_fail_4		132364
+	765325873	tt_demo_pickaxe_light_05	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\tt_demo_pickaxe_light_05_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Actor Mixer\Player\Mining\Mining_Unsuccessful_Strike\tt_demo_pickaxe_light_05		74592
+	805918610	sword_fail_1	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\sword_fail_1_CA0198D6.wem		\Actor-Mixer Hierarchy\Temp Work Unit\Temp Actor Mixer\Blade_Impact_Dull_Blender\Blade_Impact_Dull_Hard\sword_fail_1		132364
+	869628489	sword_fail_3	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\sword_fail_3_CA0198D6.wem		\Actor-Mixer Hierarchy\Temp Work Unit\Temp Actor Mixer\Blade_Impact_Dull_Blender\Blade_Impact_Dull_Hard\sword_fail_3		132364
+	889550412	tt_weapons_bow_arrow_set_07	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\tt_weapons_bow_arrow_set_07_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Actor Mixer\Player\Combat\Arrow\Arrow_Knock\tt_weapons_bow_arrow_set_07		20594
+	891586540	tt_weapons_bow_arrow_set_03	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\tt_weapons_bow_arrow_set_03_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Actor Mixer\Player\Combat\Arrow\Arrow_Knock\tt_weapons_bow_arrow_set_03		16962
+	913743352	sword_stab_exitHit_2	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\sword_stab_exitHit_2_CA0198D6.wem		\Actor-Mixer Hierarchy\Temp Work Unit\Temp Actor Mixer\Pierce_Exit_Metal\sword_stab_exitHit_2		264664
+	932212962	sword_stab_enterHit_1	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\sword_stab_enterHit_1_CA0198D6.wem		\Actor-Mixer Hierarchy\Temp Work Unit\Temp Actor Mixer\Pierce_Hit_Metal\sword_stab_enterHit_1		198516
+	950314590	tt_weapons_bow_arrow_set_06	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\tt_weapons_bow_arrow_set_06_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Actor Mixer\Player\Combat\Arrow\Arrow_Knock\tt_weapons_bow_arrow_set_06		17244
+	956438690	sword_hit_2	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\sword_hit_2_CA0198D6.wem		\Actor-Mixer Hierarchy\Temp Work Unit\Temp Actor Mixer\Slash_Hit\sword_hit_2		173708
+	1019815254	sword_stab_exitCrit_2	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\sword_stab_exitCrit_2_CA0198D6.wem		\Actor-Mixer Hierarchy\Temp Work Unit\Temp Actor Mixer\Pierce_Exit_Metal_Crit\sword_stab_exitCrit_2		264664
+	1044651922	tt_demo_pickaxe_light_04	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\tt_demo_pickaxe_light_04_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Actor Mixer\Player\Mining\Mining_Unsuccessful_Strike\tt_demo_pickaxe_light_04		96692
+	1064734766	sword_fail_5	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\sword_fail_5_CA0198D6.wem		\Actor-Mixer Hierarchy\Temp Work Unit\Temp Actor Mixer\Blade_Impact_Dull_Blender\Blade_Impact_Dull_Hard\sword_fail_5		132364
+	1066458431	tt_demo_pickaxe_heavy_04	D:\Repositories\Township Tales\A Township Tale_WwiseProject\.cache\Windows\SFX\tt_demo_pickaxe_heavy_04_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Global Actor Mixer\Player\Mining\Mining_Successful_Strike\tt_demo_pickaxe_heavy_04		63744
+
